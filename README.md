@@ -8,3 +8,8 @@ given basic wire-frame of a webpage. The final webpage is only partially
 functional; there are buttons that do not have functions ("Learn More" 
 buttons) and some menu items have not yet been set (drop-down menus in
 navigation bar). 
+
+The webpage can be viewed by downloading all of the files, and then opening
+the file CareDash.html in a web browser.
+
+All images used in this assignment were taken from CareDash.com.
